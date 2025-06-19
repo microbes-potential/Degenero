@@ -9,4 +9,6 @@ scikit-learn==1.2.2
 openpyxl==3.1.2
 gprofiler-official==1.0.0
 kaleido==0.2.1
+dash-bootstrap-components==1.5.0
+
 
